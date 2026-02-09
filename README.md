@@ -3,7 +3,7 @@
 Welcome to my portfolio. This repository contains my projects in causal inference and predictive modeling.
 
 ## Featured Project: Olist Subscription Uplift Engine
-[Live Interactive Dashboard](https://ayesha-shoaib-portfolio.streamlit.app/)
+[Live Interactive Dashboard](https://olist-uplift-engine.streamlit.app/)
 
 ### Project Overview
 I built a causal machine learning solution for Olist to improve voucher distribution. This engine identifies persuadable users. These are customers who only buy if they receive an incentive.
